@@ -1,0 +1,25 @@
+#fl_save_result{
+	text-align:center;
+}
+
+#fl_save_result  h3{
+    border: 1px solid #62a777;
+    color: #62a777;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+.fl_admin_select{
+	min-height: 100px;
+	margin-bottom: 15px;
+}
+
+.flv_table_setting{
+	background-color: #ffffff;
+    padding: 10px 20px 20px;
+    margin-bottom: 10px;
+}
+
+.fl_font_color_red{
+	color:red;
+}
